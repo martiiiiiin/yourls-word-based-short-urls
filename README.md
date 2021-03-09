@@ -1,3 +1,8 @@
+20210310 update:
+更新源码如下；
+1. 简化短链随机后缀，只保留英文名词；
+2. 更新名词库，现名词库为国中生必背1200词。
+
 Plugin for YOURLS: Word Based Short URLs
 
 
